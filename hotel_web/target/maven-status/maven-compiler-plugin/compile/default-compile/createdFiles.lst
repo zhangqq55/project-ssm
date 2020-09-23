@@ -1,0 +1,7 @@
+com\hotel\ssm\controller\OrdersController.class
+com\hotel\ssm\controller\RoleController.class
+com\hotel\ssm\controller\SysLogController.class
+com\hotel\ssm\controller\PermissionController.class
+com\hotel\ssm\controller\ProductController.class
+com\hotel\ssm\controller\LogAop.class
+com\hotel\ssm\controller\UserController.class

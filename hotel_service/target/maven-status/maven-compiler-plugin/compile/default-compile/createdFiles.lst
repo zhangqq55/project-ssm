@@ -1,0 +1,12 @@
+com\hotel\ssm\service\impl\UserServiceImpl.class
+com\hotel\ssm\service\IOrderService.class
+com\hotel\ssm\service\IPermissionService.class
+com\hotel\ssm\service\IProductService.class
+com\hotel\ssm\service\IRoleService.class
+com\hotel\ssm\service\IUserService.class
+com\hotel\ssm\service\impl\RoleServiceImpl.class
+com\hotel\ssm\service\impl\OrderServiceImpl.class
+com\hotel\ssm\service\ISysLogService.class
+com\hotel\ssm\service\impl\ProductServiceImpl.class
+com\hotel\ssm\service\impl\PermissionServiceImpl.class
+com\hotel\ssm\service\SysLogService.class

@@ -1,0 +1,8 @@
+com\hotel\ssm\dao\IOrdersDao.class
+com\hotel\ssm\dao\IProductDao.class
+com\hotel\ssm\dao\ISysLogDao.class
+com\hotel\ssm\dao\IPermissionDao.class
+com\hotel\ssm\dao\IRoleDao.class
+com\hotel\ssm\dao\IMemberDao.class
+com\hotel\ssm\dao\ITravellerDao.class
+com\hotel\ssm\dao\IUserDao.class

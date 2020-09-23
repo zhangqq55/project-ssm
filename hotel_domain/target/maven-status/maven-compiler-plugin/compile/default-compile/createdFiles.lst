@@ -1,0 +1,8 @@
+com\hotel\ssm\domain\UserInfo.class
+com\hotel\ssm\domain\Orders.class
+com\hotel\ssm\domain\Permission.class
+com\hotel\ssm\domain\Role.class
+com\hotel\ssm\domain\Traveller.class
+com\hotel\ssm\domain\Product.class
+com\hotel\ssm\domain\SysLog.class
+com\hotel\ssm\domain\Member.class
